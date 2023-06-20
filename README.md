@@ -1,4 +1,4 @@
-# Embed Payments in a ReactJS App
+# Securely Embed Payments in a ReactJS App
 
 This is a JavaScript application that uses the React framework and Node.js to demonstrate an embedded payment solution with [Payments Hub's Browser Post API](https://developer.paymentshub.com/products/card-not-present/browser-post). The code in this repository handles the front-end payment process and adds a simple payment form to a website. The code that handles back-end part of the payment process is located in a [separate repository](https://github.com/PaymentsHubDevelopers/PaymentsHub-Node-Browser-Post-API), allowing each to be deployed separately. This application does not include a shopping cart, making it a great fit for businesses that sell one item per transaction, such as utility services or other professional services.
 
