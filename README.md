@@ -24,4 +24,4 @@ Click the "View Details" button to open a product page:
 
 Click the "Purchase Now" button to open a new tab with a checkout form where customers can enter their payment information and submit an order:
 
-![](/src/assets/payments-hub-react-browser-post-api-checkout-form.png)
+![](/src/assets/payments-hub-react-browser-post-api-checkout.png)
