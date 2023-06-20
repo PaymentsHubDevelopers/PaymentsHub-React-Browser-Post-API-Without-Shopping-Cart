@@ -6,7 +6,7 @@ For a React ecommerce application with a shopping cart that allows customers to 
 
 ## Get Sandbox Credentials
 
-To get started, create a free [Payments Hub Developer Portal account](https://developer.paymentshub.com/auth/signup). This will allow you to get the sandbox credentials that are required to test the app. Login to view the official [Browser Post API Integration Guide](https://developer.paymentshub.com/products/card-not-present/browser-post/integration), then [contact](https://developer.paymentshub.com/contact) the Payments Hub Sales Engineering team to get sandbox credentials added to your Developer Portal account.
+To get started, create a free [Payments Hub Developer Portal account](https://developer.paymentshub.com/auth/signup). This will allow you to get the sandbox credentials that are required to test the app. Log in to your account to view the official [Browser Post API Integration Guide](https://developer.paymentshub.com/products/card-not-present/browser-post/integration), then [contact](https://developer.paymentshub.com/contact) the Payments Hub Sales Engineering team to get sandbox credentials added to your Developer Portal account.
 
 ## Follow Along with the Tutorial
 
